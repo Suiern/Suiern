@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suiern
-- 👀 I’m interested in Minecraft Modding
-- 🌱 I’m currently learning a More Effecient Java Coding Style
+- 👀 I’m interested in Game Modding
+- 🌱 I’m currently learning a More Effecient Coding Style
 - 💞️ I’m looking to collaborate on Nothing til I am more reliable
 - 📫 How to reach me [Bluesky](https://bsky.app/profile/suiern.bsky.social)
 - 😄 Pronouns: They/Them
